@@ -1,7 +1,5 @@
 module.exports = {
   mergeStrategy: {
-    toReleaseBranch: {
-      develop: "master"
-    }
+    toSameBranch: ["master"]
   }
 };
