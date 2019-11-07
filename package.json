@@ -1,6 +1,6 @@
 {
   "name": "try-shipjs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/tyankatsu0105/try-shipjs#readme",
   "devDependencies": {
+    "conventional-changelog": "^3.1.12",
     "shipjs": "^0.8.1"
   }
 }
